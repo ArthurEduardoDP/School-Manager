@@ -1,4 +1,4 @@
 # School-Manager
-Um projeto para portfólio.
+A project for a portfolio.
 
-Ele foi feito totalmente em Python e envolve Banco de Dados (SQLite3).
+It was made entirely in Python and involves a Database (SQLite3). 
